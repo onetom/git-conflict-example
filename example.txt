@@ -1,9 +1,10 @@
 initial line 1
-initial line 2
+common change
 initial line 3
+conflicting line
 initial line 4
 initial line 5
 initial line 6
+added on conflict-example bran
 initial line 7
 initial line 8
-initial line 9
